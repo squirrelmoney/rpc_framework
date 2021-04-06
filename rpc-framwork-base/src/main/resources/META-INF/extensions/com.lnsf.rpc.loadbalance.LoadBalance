@@ -1,0 +1,2 @@
+ConsistentHashLoadBalance=com.lnsf.rpc.loadbalance.loadbalancer.ConsistentHashLoadBalance
+RandomLoadBalance=com.lnsf.rpc.loadbalance.loadbalancer.ConsistentHashLoadBalance

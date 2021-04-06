@@ -1,0 +1,3 @@
+
+socket=com.lnsf.rpc.remoting.transport.socket.SocketRpcClient
+netty=com.lnsf.rpc.remoting.transport.netty.client.NettyRpcClient
